@@ -1,0 +1,121 @@
+﻿
+.navbar{
+            margin:0px;
+        }
+        .navbar-brand{
+            font-size:1.5em;
+            padding-top:13px;
+        }
+        .navbar-right{
+            color:black;
+            padding-top:15px;
+        }
+        .content {
+            background-image: url('Images/background.jpg');
+            color: #312e2e;
+            background-repeat:repeat-y;
+            background-size:100%;
+            background-position:center;
+            margin-top:30px;
+            margin-bottom:30px;  
+        }
+        #tagline{
+            font-family:Rage Italic, Mistral,freestyle script, Comic Sans MS, cursive, sans-serif;
+        }
+        .wrapper {
+            margin-top:40px;
+                    
+        }
+        
+        .carousel-inner img{           
+            height:350px !important;
+            width:500px;           
+        }
+       .tag{
+           margin-top:20px;
+       }
+      
+       #galaxy{
+           margin-top:10px;
+           height:92px;
+       }
+      body{
+          background-color:#515151;
+      }
+      .showroomInfo h3{
+          margin:20px 15px !important;
+          font-family:Rage Italic, Mistral,freestyle script, Comic Sans MS, cursive, sans-serif;
+      }
+      #aboutUS{
+          padding:10px 15px;
+          font-family:Comic Sans MS, AR BLANCA;
+          text-align:justify;
+          font-size:1.5em;
+          margin-bottom:30px;
+      }
+      #kajariaPage{
+          height:1220px;;
+          margin-bottom:30px;
+          margin-top:30px;
+          padding:0;
+         
+      }
+
+      #map-canvas { 
+          border:2px solid gray;
+          height: 500px;
+          margin-bottom:30px;
+          margin-top:10px;
+          padding: 0;
+         position:center;
+      }
+      #address{
+          margin-bottom:20px;
+      }
+     .square {
+                    width: 100px;
+                    height: 100px;
+                }
+                .horiz {
+                    width: 100px;
+                    height: 70px;
+                }
+                .vert {
+                    width: 100px;
+                    height: 130px;
+                }
+                .footer{
+	clear: both;
+	padding: 65px 0 15px 0;
+	font-size: 0.9em;
+	color: #999;
+	background: #333 url(Images/footerbg.gif) repeat-x;
+    text-align: center;
+}
+                .ContactInfo{
+            border:1px solid black;
+            border-radius:5px;
+            margin-top:10px;
+            
+        };
+                .ContactInfo h4{
+                    font: bold Arial, Sans-serif;
+                }
+                .emailForm{
+                    padding:15px;
+                    background-color:#dbd8d8;
+                    margin-top:20px;
+                    border-radius:5px;
+                }
+
+        #contactTabs img{
+            height:80px; width:80px; padding:0; border-radius:10px;
+            margin:10px;
+        }
+        #fbGroupLink{
+            color:black;
+           
+        }
+        .contactIcon:hover{
+            cursor:pointer;
+        }
